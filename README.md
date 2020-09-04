@@ -1,6 +1,6 @@
-The bot handles admin tasks and plays/skips/queues music.
+# The bot handles admin tasks and plays/skips/queues music.
 
-# Instructions
+## Instructions
 
 To use this code, follow the instructions:
 
